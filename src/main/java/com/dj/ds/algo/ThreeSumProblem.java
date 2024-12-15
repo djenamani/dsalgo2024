@@ -43,5 +43,6 @@ public class ThreeSumProblem {
         System.out.println(isTripletsFound);
         isTripletsFound = findSumOfThree(new int[]{3, 7, 1, 2, 8, 4, 5}, 10);
         System.out.println(isTripletsFound);
+
     }
 }
